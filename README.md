@@ -12,7 +12,8 @@ A private repo for the consid-ckad course
 
 ### documentations
 #### https://kubernetes.io/docs/home
-#### https://www.mankier.com/
+#### https://www.mankier.com
 
 ### downloads and tools
 #### https://kubernetes.io/docs/tasks/tools
+#### https://www.docker.com/products/docker-desktop
