@@ -1,7 +1,7 @@
 # consid-ckad
 A private repo for the consid-ckad course
 
-## exam curricullum and practice links
+## recommended resources
 
 ### curricullum: 
 #### https://github.com/cncf/curriculum
