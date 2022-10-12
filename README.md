@@ -3,7 +3,7 @@ A private repo for the consid-ckad course
 
 ## recommended resources
 
-### curricullum: 
+### ckad curricullum: 
 #### https://github.com/cncf/curriculum
 
 ### practise links:
@@ -13,3 +13,6 @@ A private repo for the consid-ckad course
 ### documentations
 #### https://kubernetes.io/docs/home
 #### https://www.mankier.com/
+
+### downloads and tools
+#### https://kubernetes.io/docs/tasks/tools
