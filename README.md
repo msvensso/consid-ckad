@@ -4,7 +4,7 @@ A private repo for the consid-ckad course
 ## recommended resources
 
 ### ckad curricullum: 
-#### cncf official curricullum for ckad https://github.com/cncf/curriculum
+#### cncf official curricullum for ckad exam: https://github.com/cncf/curriculum
 
 ### exam practise links:
 #### perfect practise repo: https://github.com/dgkanatsios/CKAD-exercises
