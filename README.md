@@ -4,16 +4,17 @@ A private repo for the consid-ckad course
 ## recommended resources
 
 ### ckad curricullum: 
-#### https://github.com/cncf/curriculum
+#### cncf official curricullum for ckad https://github.com/cncf/curriculum
 
-### practise links:
-#### https://github.com/dgkanatsios/CKAD-exercises
-#### https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
+### exam practise links:
+#### perfect practise repo: https://github.com/dgkanatsios/CKAD-exercises
+#### another practise resource: https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
 
 ### documentations
-#### https://kubernetes.io/docs/home
-#### https://www.mankier.com
+#### kubernetes official documentation: https://kubernetes.io/docs/home
+#### good documentation for most commands: https://www.mankier.com
+#### reference for kubectl commands: https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 ### downloads and tools
-#### https://kubernetes.io/docs/tasks/tools
-#### https://www.docker.com/products/docker-desktop
+#### common tools for kubernetes: https://kubernetes.io/docs/tasks/tools
+#### link to docker desktop installation: https://www.docker.com/products/docker-desktop
