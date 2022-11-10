@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: mysql
+  labels:
+    app: mysql
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mysql
+  template:
+    metadata:
+      labels:
+        app: mysql
+    spec:
+      containers:
+      - name: database
+        image: bitnami/mysql:latest
+        envFrom:
+          - secretRef:
+              name: wp-db-secrets
+        ports:
+          - containerPort: 3306
+        volumeMounts:
+        - name: mysql-data
+          mountPath: /bitnami/mysql/data
+      volumes:
+      - name: mysql-data
+        persistentVolumeClaim:
+          claimName: mysql-volume
